@@ -7,7 +7,7 @@
 "https://i.postimg.cc/hj1BrxSZ/My-love.png" 
         type = "image/x-icon"> 
   <style>
-	body {
+	body { 
   font-family: 'Gochi Hand', cursive;
 font-family: 'Kameron', serif; 
   color:#33ff66;
